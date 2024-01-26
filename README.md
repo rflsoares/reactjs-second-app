@@ -39,3 +39,8 @@
  - Navegue até a pasta `server`.
  - Execute `npm start` para iniciar o servidor.
 Certifique-se de ter o MongoDB instalado e em execução localmente.
+
+- Para desfazer erros
+```bash
+$ git reset --hard
+```
